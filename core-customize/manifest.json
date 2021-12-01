@@ -179,10 +179,6 @@
         {
             "key": "outboundservices.monitoring.enabled",
             "value": "true"
-        },
-        {
-            "key": "solr.config.Default.replicationFactor",
-            "value": "2"
         }
     ],
     "aspects": [
